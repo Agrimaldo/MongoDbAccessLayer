@@ -1,0 +1,9 @@
+c:\users\agrim\source\repos\MongoDbAccessLayer\WebApp.Rule\bin\Debug\netcoreapp2.0\WebApp.Rule.deps.json
+c:\users\agrim\source\repos\MongoDbAccessLayer\WebApp.Rule\bin\Debug\netcoreapp2.0\WebApp.Rule.dll
+c:\users\agrim\source\repos\MongoDbAccessLayer\WebApp.Rule\obj\Debug\netcoreapp2.0\WebApp.Rule.csprojAssemblyReference.cache
+c:\users\agrim\source\repos\MongoDbAccessLayer\WebApp.Rule\obj\Debug\netcoreapp2.0\WebApp.Rule.csproj.CoreCompileInputs.cache
+c:\users\agrim\source\repos\MongoDbAccessLayer\WebApp.Rule\obj\Debug\netcoreapp2.0\WebApp.Rule.AssemblyInfoInputs.cache
+c:\users\agrim\source\repos\MongoDbAccessLayer\WebApp.Rule\obj\Debug\netcoreapp2.0\WebApp.Rule.AssemblyInfo.cs
+c:\users\agrim\source\repos\MongoDbAccessLayer\WebApp.Rule\bin\Debug\netcoreapp2.0\WebApp.Rule.pdb
+c:\users\agrim\source\repos\MongoDbAccessLayer\WebApp.Rule\obj\Debug\netcoreapp2.0\WebApp.Rule.dll
+c:\users\agrim\source\repos\MongoDbAccessLayer\WebApp.Rule\obj\Debug\netcoreapp2.0\WebApp.Rule.pdb
